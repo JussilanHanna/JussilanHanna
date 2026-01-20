@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**JussilanHanna/JussilanHanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hanna Jussila
 
-Here are some ideas to get you started:
+Integration Developer | Data & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build integrations and automation solutions that simplify
+financial and HR-related business processes.
+
+### 🔧 Core skills
+- TypeScript / Node.js
+- REST APIs
+- Data integrations
+- Validation & mapping logic
+- SQL & Power BI
+- Azure Functions mindset
+
+### 📌 Selected projects
+- 🔄 Business Data Integration Demo  
+  https://github.com/JussilanHanna/business-data-integration-demo
+
+- 🏢 Meeting Room Booking API  
+  https://github.com/JussilanHanna/meeting-room-booking-api
+
+### 🎯 Focus
+Real-life business automation and integration development.
+
