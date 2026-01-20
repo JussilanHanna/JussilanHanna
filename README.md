@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 👋 Hanna Jussila
+## 👋 Hello, I'm Hanna Jussila
 
 Integration Developer | Data & Automation
 
